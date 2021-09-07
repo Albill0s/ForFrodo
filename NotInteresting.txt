@@ -1,0 +1,259 @@
+Authentication Id : 0 ; 424912 (00000000:00067bd0)
+Session           : Interactive from 1
+User Name         : Administrator
+Domain            : MIDDLE
+Logon Server      : MORDOR-DC
+Logon Time        : 03/09/2021 9:04:54
+SID               : S-1-5-21-3342792240-2688801314-3372538542-500
+        msv :
+         [00000003] Primary
+         * Username : Administrator
+         * Domain   : MIDDLE
+         * NTLM     : (null)
+         * SHA1     : (null)
+         * DPAPI    : (null)
+        tspkg :
+        wdigest :
+         * Username : Administrator
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : Administrator
+         * Domain   : MIDDLE.EARTH
+         * Password : (null)
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 66027 (00000000:000101eb)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-90-0-1
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : (null)
+         * SHA1     : (null)
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : MORDOR-DC$
+Domain            : MIDDLE
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-20
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : mordor-dc$
+         * Domain   : MIDDLE.EARTH
+         * Password : (null)
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 45942 (00000000:0000b376)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-96-0-1
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 45858 (00000000:0000b322)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-96-0-1
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 43382 (00000000:0000a976)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:03:58
+SID               :
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+        kerberos :
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-19
+        msv :
+        tspkg :
+        wdigest :
+         * Username : (null)
+         * Domain   : (null)
+         * Password : (null)
+        kerberos :
+         * Username : (null)
+         * Domain   : (null)
+         * Password : (null)
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 65978 (00000000:000101ba)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-90-0-1
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 45889 (00000000:0000b341)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-96-0-0
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 45875 (00000000:0000b333)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:04:00
+SID               : S-1-5-96-0-0
+        msv :
+         [00000003] Primary
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * NTLM     : 189b000f77e670aa416dfaffc950a1c2
+         * SHA1     : 8d8aaa89fd56456fc076f7ce2c9ca019c237fe69
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE.EARTH
+         * Password : bf d7 e3 ee f8 62 d3 d7 92 c5 67 20 c5 0f 0e 27 f7 04 68 c5 3b 9a 7c a1 8f 35 84 18 b1 dc 36 f8 f7 7e 91 61 da 91 22 a1 31 31 7e d6 ae eb d0 f5 24 ca 33 70 33 65 5f 50 95 a6 8e e7 55 6d 50 b2 3d 38 8e 08 e6 21 7a 51 3b 6f 58 f7 8b b7 3c fb e2 0d 3b 8d 2c ec 26 6d cc ab f0 3f 10 43 08 99 51 1c 2a 4f 15 de 02 a4 6d ff a2 4f 91 83 b4 08 90 30 a8 aa 21 40 73 ba 3e 7b 2d 02 20 13 5a fe c8 12 f7 c7 13 14 62 3a c3 4d 39 50 74 4f d3 e9 57 9d 65 ca 7b c8 b8 8e a3 22 00 fe b0 f5 ea d4 bc 76 77 03 00 04 df 86 20 2f ef 62 91 30 f2 ba 59 b7 e7 85 39 f5 cc 52 13 95 0d 0a 48 09 13 87 0c 78 21 d9 8d 60 a5 0b 22 f9 fb 1f e2 27 e7 63 68 ef 78 7b d8 91 42 70 12 de 9a 46 03 24 ab a5 bf c6 10 ee ef f5 e8 09 aa 8d 6e f6 98 44 fd 6b
+        ssp :
+        credman :
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : MORDOR-DC$
+Domain            : MIDDLE
+Logon Server      : (null)
+Logon Time        : 03/09/2021 9:03:58
+SID               : S-1-5-18
+        msv :
+        tspkg :
+        wdigest :
+         * Username : MORDOR-DC$
+         * Domain   : MIDDLE
+         * Password : (null)
+        kerberos :
+         * Username : mordor-dc$
+         * Domain   : MIDDLE.EARTH
+         * Password : (null)
+        ssp :
+        credman :
